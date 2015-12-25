@@ -23,7 +23,7 @@ Vierfuffzig and me were looking for a smaller wing for quite some time, but most
 
 We wanted the profile to be thick enough to be able to put in a decent size battery and carry regular fpv gear including a GoPro without breaking a sweat.
 
-We ended choosing the [Knurrus Maximus FPV from epp-versan.de](http://www.epp-versand.de/a_kmfpv.php). 26 degrees of sweep, 40cm root chord depth and a nice thick profile - also it is rather erfordable :D
+We ended choosing the [Knurrus Maximus FPV from epp-versand.de](http://www.epp-versand.de/a_kmfpv.php). 26 degrees of sweep, 40cm root chord depth and a nice thick profile - also it is rather erfordable :D
 
 ### Electronics
 We have a set of electronics that have proven to be a good all around setup that also hits cg nicely (which is not completely trivial since you need quite a lot of weight in the front)
@@ -64,7 +64,7 @@ Since there is no motor mount included you will have to get your own.
 Again, there are a couple options available.
 Ones cut from an aluminium L-Square
 ![](motor_mount_1.jpg)
-cut from an aluminim plate and bent
+cut from an aluminium plate and bent to 90 degrees
 ![](motor_mount_2.jpg)
 cut from carbon fibre with spar slots
 ![](motor_mount_3.jpg)
