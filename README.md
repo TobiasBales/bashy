@@ -34,6 +34,7 @@ We have a set of electronics that have proven to be a good all around setup that
 - Prop Any Cam Carbon folding or APC-E 9x5 or 9x6 (9x7 works too but stalls until ~20km/h and needs a 60A ESC)
 - Cam [HS1177](http://www.surveilzone.com/DC5V-plastic-case-mini-sony-super-had-ccd-600tvl-super-camera-2.8mm-lens-for-fpv)
 - HD Cam: GoPro in case, you will need the weight ;)
+- Servos pretty much anything 18-30 grams or so, Hitec HS-82MG, HS-225MG, etc
 
 ## Build
 
